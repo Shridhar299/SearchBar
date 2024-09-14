@@ -1,0 +1,23 @@
+# Node.js dependencies
+nodejs
+npm
+
+# React dependencies
+react@17.0.2
+react-dom@17.0.2
+react-scripts@4.0.3
+
+# ESLint dependencies
+eslint@7.14.0
+eslint-plugin-react@7.22.0
+
+# Other dependencies
+@babel/core@7.14.0
+@babel/preset-env@7.14.0
+@babel/preset-react@7.14.0
+babel-loader@8.2.2
+css-loader@5.2.7
+file-loader@6.2.0
+style-loader@2.0.0
+webpack@5.51.1
+webpack-dev-server@4.0.0

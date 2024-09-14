@@ -1,0 +1,20 @@
+[
+    {
+      "name": {
+        "common": "Afghanistan"
+      },
+      "capital": "Kabul"
+    },
+    {
+      "name": {
+        "common": "Albania"
+      },
+      "capital": "Tirana"
+    },
+    {
+      "name": {
+        "common": "Algeria"
+      },
+      "capital": "Algiers"
+    }
+]
